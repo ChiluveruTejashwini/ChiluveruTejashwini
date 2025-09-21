@@ -5,8 +5,8 @@
   - Managed state efficiently using **Redux**, improving maintainability and scalability across complex projects.  
   - Integrated **REST APIs and GraphQL** into React applications for real-time data updates and seamless user experiences.  
   - Implemented **component-based architecture** and reusable UI components, reducing development effort and increasing consistency.  
-🔭 Specializing in **data-intensive applications, AI-driven analytics, and scalable system design**  
-🌱 Enthusiast in **Machine Learning, Deep Learning (RNN, LSTM), and LLM applications**  
+  - Specializing in **data-intensive applications, AI-driven analytics, and scalable system design**  
+  - Enthusiast in **Machine Learning, Deep Learning (RNN, LSTM), and LLM applications**  
 
 ---
 
